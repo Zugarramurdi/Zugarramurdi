@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">Here's Juanma, I'm a Software Dev student from Spain</h3>
+<h3 align="left">Here's Juanma I'm a Software Dev student from Spain</h3>
 
 ###
 
@@ -44,11 +44,11 @@
 
 ###
 
-<img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif"  />
+<img align="right" height="100" src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif"  />
 
 ###
 
-<img align="right" height="150" src="https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/238200437-de038172-e903-4951-926c-755878deb0b4.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250320%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250320T201545Z&X-Amz-Expires=300&X-Amz-Signature=709d011b41e9c2cf017b780cf20db87b85a59dd3491e13eb435e8baa7c674bf3&X-Amz-SignedHeaders=host"  />
+<img align="left" height="100" src="https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/238200437-de038172-e903-4951-926c-755878deb0b4.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250320%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250320T201545Z&X-Amz-Expires=300&X-Amz-Signature=709d011b41e9c2cf017b780cf20db87b85a59dd3491e13eb435e8baa7c674bf3&X-Amz-SignedHeaders=host"  />
 
 ###
 
