@@ -1,23 +1,20 @@
-<h2 align="left">Hi there👋!</h2>
+<h2 align="left">Hi there! 👋</h2>
 
 ###
 
-<h3 align="left">Here's Juanma I'm a Software Dev student from Spain</h3>
+<h3 align="left">I'm Juanma, a software dev student</h3>
 
 ###
 
-<p align="left">Feel free to check my projects or contact me so we can talk.</p>
+<h4 align="left">Welcome to my GitHub profile! 🚀 I'm a passionate developer with a strong interest in Java and Backend development, but also eager to learn and explore new technologies.<br><br>Beyond coding, I have extensive experience in team management and customer relations, along with highly-developed skills in sales. I also have an insatiable curiosity for acquiring knowledge in various fields. Feel free to check the contact section so we can connect!</h4>
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zugarramurdi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Zugarramurdi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<h3 align="left">TECHNOLOGIES</h3>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -33,7 +30,22 @@
 
 ###
 
+<h3 align="center">STATS</h3>
+
+###
+
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Zugarramurdi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Zugarramurdi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<h3 align="left">CONTACT</h3>
+
+###
+
+<div align="left">
   <a href="https://mail.google.com/mail/u/0/?pli=1#inbox?compose=CllgCJZWxZQRDGTkwLZdkZlFSSGFWLnRSsFpHnWlZNQnbTZFqtFFFqxpzGwWMlBZgzwhMRqcHRg" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
