@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">I'm Juanma, a software dev student</h3>
+<h3 align="left">I'm Juanma</h3>
 
 ###
 
