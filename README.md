@@ -10,7 +10,7 @@
 
 <img align="right" width="280" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Developer setup" />
 
-¡Buenas! Soy Juanma.
+Buenas! Soy Juanma.
 
 Tras años gestionando equipos y tratando con personas en retail tecnológico, di el salto al desarrollo de software graduándome en DAM para volcarme de lleno en lo que de verdad me engancha: picar código y construir cosas.
 
