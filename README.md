@@ -1,20 +1,24 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:080818,30:0d0d2b,70:38bdf8,100:818cf8&height=210&section=header&text=Juanma%20Segura&fontSize=46&fontColor=f1f5f9&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Backend%20%C2%B7%20Bases%20de%20Datos%20%C2%B7%20Arquitectura&descSize=16&descAlignY=58" width="100%" alt="Header Banner" />
 
-# Juanma Segura
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=38BDF8&center=true&vCenter=true&width=520&lines=Software+Developer;Backend+%C2%B7+Bases+de+datos+%C2%B7+Arquitectura;PostgreSQL+%C2%B7+Java+%C2%B7+TypeScript+%C2%B7+Docker" alt="Typing SVG" />
-</a>
-
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=520&lines=PostgreSQL+%C2%B7+Java+%C2%B7+TypeScript+%C2%B7+Docker;Optimizando+rendimiento+y+APIs;Construyendo+en+mi+sandbox+personal" alt="Typing SVG" />
+  </a>
 </div>
 
-Buenas! Soy Juanma.
+<br>
+
+<img align="right" width="280" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Developer setup" />
+
+¡Buenas! Soy Juanma.
 
 Tras años gestionando equipos y tratando con personas en retail tecnológico, di el salto al desarrollo de software graduándome en DAM para volcarme de lleno en lo que de verdad me engancha: picar código y construir cosas.
 
 Me tira especialmente el backend, el diseño de bases de datos y entender bien cómo funcionan los sistemas por debajo (y por qué a veces fallan).
 
 Este GitHub es mi sandbox particular: el rincón donde trasteo, pruebo arquitecturas, rompo cosas para aprender a arreglarlas y voy subiendo proyectos y experimentos. Si tienes curiosidad por ver en qué ando metido, échale un ojo a la pestaña de repositorios.
+
+<br clear="both">
 
 ---
 
