@@ -1,73 +1,50 @@
-<h2 align="left">Hi there! 👋</h2>
+<div align="center">
 
-###
+# Juanma Segura
 
-<h3 align="left">I'm Juanma</h3>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=38BDF8&center=true&vCenter=true&width=520&lines=Software+Developer;Backend+%C2%B7+Bases+de+datos+%C2%B7+Arquitectura;PostgreSQL+%C2%B7+Java+%C2%B7+TypeScript+%C2%B7+Docker" alt="Typing SVG" />
+</a>
 
-###
-
-<h4 align="left">Welcome to my GitHub profile! 🚀 I'm a passionate developer with a strong interest in Java and Backend development, but also eager to learn and explore new technologies.<br><br>Beyond coding, I have extensive experience in team management and customer relations, along with highly-developed skills in sales. I also have an insatiable curiosity for acquiring knowledge in various fields. Feel free to check the contact section so we can connect!</h4>
-
-###
-
-<h3 align="left">TECHNOLOGIES</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
 </div>
 
-###
+Buenas! Soy Juanma.
 
-<h3 align="center">STATS</h3>
+Tras años gestionando equipos y tratando con personas en retail tecnológico, di el salto al desarrollo de software graduándome en DAM para volcarme de lleno en lo que de verdad me engancha: picar código y construir cosas.
 
-###
+Me tira especialmente el backend, el diseño de bases de datos y entender bien cómo funcionan los sistemas por debajo (y por qué a veces fallan).
+
+Este GitHub es mi sandbox particular: el rincón donde trasteo, pruebo arquitecturas, rompo cosas para aprender a arreglarlas y voy subiendo proyectos y experimentos. Si tienes curiosidad por ver en qué ando metido, échale un ojo a la pestaña de repositorios.
+
+---
+
+### Lo que más toco
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zugarramurdi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Zugarramurdi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </div>
 
-###
+---
 
-<h3 align="left">CONTACT</h3>
-
-###
-
-<div align="left">
-  <a href="https://mail.google.com/mail/u/0/?pli=1#inbox?compose=CllgCJZWxZQRDGTkwLZdkZlFSSGFWLnRSsFpHnWlZNQnbTZFqtFFFqxpzGwWMlBZgzwhMRqcHRg" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/juanma-segura-canales/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
-<img align="right" height="100" src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif"  />
-
-###
-
-<img align="left" height="100" src="https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/238200437-de038172-e903-4951-926c-755878deb0b4.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250502%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250502T001941Z&X-Amz-Expires=300&X-Amz-Signature=8a954510aaf0d37a4bb4dff8188fde31580737d7991cec2ace485b64abfa6ea3&X-Amz-SignedHeaders=host"  />
-
-###
-
-<br clear="both">
+### Actividad
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Zugarramurdi/count.svg?"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Zugarramurdi&show_icons=true&bg_color=080818&title_color=38bdf8&icon_color=818cf8&text_color=f1f5f9&border_color=818cf8&count_private=true" height="155" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zugarramurdi&layout=compact&bg_color=080818&title_color=38bdf8&text_color=f1f5f9&border_color=818cf8" height="155" alt="Top Languages" />
 </div>
 
-###
+---
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juanma-segura-canales/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=info@juanmasegura.dev)
+
+</div>
