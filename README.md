@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:080818,30:0d0d2b,70:38bdf8,100:818cf8&height=210&section=header&text=Juanma%20Segura&fontSize=46&fontColor=f1f5f9&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Backend%20%C2%B7%20Bases%20de%20Datos%20%C2%B7%20Arquitectura&descSize=16&descAlignY=58" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:031317,30:083b43,70:14b8a6,100:5ef3d2&height=230&section=header&text=Juanma%20Segura&fontSize=46&fontColor=f1f5f9&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Backend%20%C2%B7%20Bases%20de%20Datos%20%C2%B7%20Arquitectura&descSize=16&descAlignY=58" width="100%" alt="Header Banner" />
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=520&lines=PostgreSQL+%C2%B7+Java+%C2%B7+TypeScript+%C2%B7+Docker;Optimizando+rendimiento+y+APIs;Construyendo+en+mi+sandbox+personal" alt="Typing SVG" />
