@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:031317,30:083b43,70:14b8a6,100:5ef3d2&height=230&section=header&text=Juanma%20Segura&fontSize=46&fontColor=f1f5f9&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Backend%20%C2%B7%20Bases%20de%20Datos%20%C2%B7%20Arquitectura&descSize=16&descAlignY=58" width="100%" alt="Header Banner" />
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=520&lines=PostgreSQL+%C2%B7+Java+%C2%B7+TypeScript+%C2%B7+Docker;Optimizando+rendimiento+y+APIs;Construyendo+en+mi+sandbox+personal" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=5EF3D2&center=true&vCenter=true&width=520&lines=PostgreSQL+%C2%B7+Java+%C2%B7+TypeScript+%C2%B7+Docker;Optimizando+rendimiento+y+APIs;Construyendo+en+mi+sandbox+personal" alt="Typing SVG" />
   </a>
 </div>
 
@@ -40,8 +40,8 @@ Este GitHub es mi sandbox particular: el rincón donde trasteo, pruebo arquitect
 ### Actividad
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zugarramurdi&show_icons=true&bg_color=080818&title_color=38bdf8&icon_color=818cf8&text_color=f1f5f9&border_color=818cf8&count_private=true" height="155" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zugarramurdi&layout=compact&bg_color=080818&title_color=38bdf8&text_color=f1f5f9&border_color=818cf8" height="155" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Zugarramurdi&show_icons=true&bg_color=041317&title_color=5ef3d2&icon_color=14b8a6&text_color=e2e8f0&border_color=0d5257&count_private=true" height="155" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zugarramurdi&layout=compact&bg_color=041317&title_color=5ef3d2&text_color=e2e8f0&border_color=0d5257" height="155" alt="Top Languages" />
 </div>
 
 ---
