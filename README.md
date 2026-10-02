@@ -7,9 +7,9 @@
 </div>
 
 <br>
-
-<img align="right" width="500" height="5" src="assets/line_cyan.gif" alt="Developer setup" />
-
+<div align="center">
+<img width="700" height="10" src="assets/line_cyan.gif" alt="Developer setup" />
+</div>
 <br>
 
 Buenas! Soy Juanma.
