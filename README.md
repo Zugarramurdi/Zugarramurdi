@@ -8,7 +8,7 @@
 
 <br>
 
-<img align="right" width="280" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Developer setup" />
+<img align="right" width="280" src="assets/line_cyan.gif" alt="Developer setup" />
 
 Buenas! Soy Juanma.
 
