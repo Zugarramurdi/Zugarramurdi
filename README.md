@@ -42,7 +42,7 @@ Este GitHub es mi sandbox particular: el rincón donde trasteo, pruebo arquitect
 ### Actividad
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=Zugarramurdi&show_icons=true&bg_color=041317&title_color=5ef3d2&icon_color=14b8a6&text_color=e2e8f0&border_color=0d5257&count_private=true" height="155" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Zugarramurdi&rank_icon=github&show_icons=true&bg_color=041317&title_color=5ef3d2&icon_color=14b8a6&text_color=e2e8f0&border_color=0d5257&count_private=true" height="155" alt="GitHub Stats" />
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Zugarramurdi&layout=compact&bg_color=041317&title_color=5ef3d2&text_color=e2e8f0&border_color=0d5257" height="155" alt="Top Languages" />
 </div>
 
